@@ -1,0 +1,5 @@
+llm:
+  endpoint: http://localhost:1234/v1
+  api_key: not-needed
+  model: qwen/qwen3.5-9b
+  timeout: 60

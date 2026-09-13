@@ -31,3 +31,6 @@ pythonpath = ["src"]
 markers = [
     "integration: tests that require a live OpenAI-compatible endpoint and are disabled by default",
 ]
+
+[project.urls]
+Repository = "https://github.com/renbud/llm-markdown-tools.git"
